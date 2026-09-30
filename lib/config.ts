@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Central Configuration and Constants
- * Problem Statement: SIH26138
  */
 
 import {
@@ -211,7 +210,7 @@ export const DEFAULT_WEIGHTS: OptimizationWeights = {
   schedule: 0.15,
 };
 
-// Official SIH26138 Demo Case Study
+// Official Showcase Demo Case Study
 export const DEFAULT_VOYAGE_PARAMS: VoyageParameters = {
   vesselType: "General Cargo",
   capacityTonnes: 10000,
@@ -237,7 +236,7 @@ export const PRESET_SCENARIOS: PresetScenario[] = [
     id: "baseline",
     name: "Baseline Voyage",
     tagline: "Standard maritime coastal cargo transit",
-    description: "Official SIH26138 case study: 1000 km voyage carrying 7000 tonnes at 18 knots in moderate sea conditions on Marine Gas Oil.",
+    description: "Official case study: 1000 km voyage carrying 7000 tonnes at 18 knots in moderate sea conditions on Marine Gas Oil.",
     badge: "Case Study Default",
     vesselType: "General Cargo",
     distanceKm: 1000.0,

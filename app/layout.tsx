@@ -15,10 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "GREENFLEET AI — Quantum-Inspired Fuel Prediction & Green Fleet Optimization",
   description:
-    "AI-powered maritime decision support for lower fuel consumption, operating cost, and lifecycle greenhouse-gas emissions using Quantum-Inspired Evolutionary Algorithms. SIH26138.",
+    "AI-powered maritime decision support for lower fuel consumption, operating cost, and lifecycle greenhouse-gas emissions using Quantum-Inspired Evolutionary Algorithms.",
   keywords: [
     "GREENFLEET AI",
-    "SIH26138",
     "Maritime Decarbonization",
     "Quantum-Inspired Evolutionary Algorithm",
     "Fuel Consumption Prediction",

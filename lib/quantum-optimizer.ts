@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Quantum-Inspired Evolutionary Optimizer (QIEA)
- * Problem Statement: SIH26138
  *
  * Runs on classical hardware simulating quantum computational principles:
  * 1. Q-bit State Representation: |ψ⟩ = cos(θ)|0⟩ + sin(θ)|1⟩ where |α|² + |β|² = 1

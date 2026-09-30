@@ -88,7 +88,7 @@ export function MethodologyPage() {
         </div>
         <p className="text-xs text-slate-400 mt-1">
           Algorithmic formulation, mathematical objective functions, Q-bit representations, and
-          marine hydrodynamic principles underlying GREENFLEET AI (SIH26138).
+          marine hydrodynamic principles underlying GREENFLEET AI.
         </p>
       </div>
 

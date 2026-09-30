@@ -57,7 +57,7 @@ export function OverviewPage() {
             <div className="flex flex-wrap items-center gap-2">
               <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-cyan-950/80 border border-cyan-800/80 text-[11px] font-mono text-cyan-300">
                 <Compass className="h-3.5 w-3.5 animate-spin" style={{ animationDuration: "12s" }} />
-                <span>GREENFLEET AI • SIH26138</span>
+                <span>GREENFLEET AI</span>
               </span>
               <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-slate-900 border border-slate-700/80 text-[11px] font-mono text-slate-300">
                 <Info className="h-3 w-3 text-cyan-400" />

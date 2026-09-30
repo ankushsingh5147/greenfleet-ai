@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Comparative Benchmark Suite
- * Problem Statement: SIH26138
  *
  * Runs Quantum-Inspired Evolutionary Optimizer (QIEA) and Classical Baseline
  * under identical voyage conditions and provides side-by-side metric audits.

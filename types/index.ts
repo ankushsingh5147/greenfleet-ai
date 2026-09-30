@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Domain Type Definitions
- * SIH 2026 Submission - Problem Statement: SIH26138
  */
 
 export type VesselType =

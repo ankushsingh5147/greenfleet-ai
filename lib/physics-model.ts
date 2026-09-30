@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Deterministic Hydrodynamic Fuel & Emissions Model
- * Problem Statement: SIH26138
  *
  * Implements transparent, physically grounded marine engineering formulas:
  * - Admiralty cubic resistance power law: P ~ Displacement^(2/3) * Speed^3.15
@@ -186,7 +185,7 @@ export function predictVoyageMetrics(
     effectiveSpeedKnots: Math.round(effectiveSpeedKnots * 10) / 10,
     propulsionEnergyMj: Math.round(propulsionEnergyMj),
     confidenceScore: Math.round(confidenceScore),
-    modelMetadata: "Prototype analytical prediction model (SIH26138)",
+    modelMetadata: "Prototype analytical prediction model",
   };
 }
 

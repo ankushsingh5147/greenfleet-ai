@@ -37,7 +37,7 @@ export function Header() {
   const handleExportJson = () => {
     exportScenarioToJson({
       exportDate: new Date().toISOString(),
-      problemStatement: "SIH26138 - Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization",
+      problemStatement: "Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization",
       system: "GREENFLEET AI Prototype Environment",
       scenarioParameters: voyageParams,
       predictionBaseline: prediction,
@@ -49,7 +49,7 @@ export function Header() {
   const handleExportCsv = () => {
     exportScenarioToCsv({
       exportDate: new Date().toISOString(),
-      problemStatement: "SIH26138 - Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization",
+      problemStatement: "Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization",
       system: "GREENFLEET AI Prototype Environment",
       scenarioParameters: voyageParams,
       predictionBaseline: prediction,
@@ -74,9 +74,6 @@ export function Header() {
               <div className="flex items-center gap-2">
                 <span className="font-bold text-base tracking-wider text-slate-100 font-mono">
                   GREENFLEET<span className="text-cyan-400">.AI</span>
-                </span>
-                <span className="rounded bg-cyan-950/80 px-1.5 py-0.5 text-[10px] font-semibold text-cyan-400 border border-cyan-800/60 font-mono">
-                  SIH26138
                 </span>
               </div>
               <p className="text-[11px] text-slate-400 hidden sm:block">
@@ -153,7 +150,7 @@ export function Header() {
           {/* Demo Scenario Button */}
           <button
             onClick={loadDemoScenario}
-            title="Load the SIH26138 Showcase Case Study"
+            title="Load the Showcase Case Study"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-semibold bg-gradient-to-r from-cyan-600 to-emerald-600 hover:from-cyan-500 hover:to-emerald-500 text-white shadow-md shadow-cyan-950 transition-all active:scale-95"
           >
             <Sparkles className="h-3.5 w-3.5 text-cyan-200 animate-spin" style={{ animationDuration: "6s" }} />

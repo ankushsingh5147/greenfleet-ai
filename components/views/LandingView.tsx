@@ -36,7 +36,7 @@ export function LandingView() {
         <div className="flex flex-wrap items-center justify-center gap-3">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-cyan-950/80 border border-cyan-800/60 text-xs font-mono text-cyan-300 shadow-lg shadow-cyan-950/50">
             <span className="h-2 w-2 rounded-full bg-cyan-400 animate-ping" />
-            <span>SIH 2026 Problem Statement: SIH26138</span>
+            <span>Smart India Hackathon 2026</span>
           </div>
           <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-900/80 border border-slate-800 text-xs font-mono text-slate-300">
             <Cpu className="h-3.5 w-3.5 text-emerald-400" />

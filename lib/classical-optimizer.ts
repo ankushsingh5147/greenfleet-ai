@@ -1,6 +1,5 @@
 /**
  * GREENFLEET AI - Classical Baseline Optimizer
- * Problem Statement: SIH26138
  *
  * Implements a conventional classical population-based search with elite local mutation/hill-climbing.
  * Serves as an honest, unvarnished baseline to benchmark against QIEA on identical maritime scenarios.

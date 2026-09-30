@@ -1,6 +1,6 @@
 # GREENFLEET AI
 ### Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization
-**Smart India Hackathon 2026 — Problem Statement: SIH26138**
+**Smart India Hackathon 2026**
 
 ![Next.js](https://img.shields.io/badge/Next.js-15%2F16-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)
@@ -18,7 +18,7 @@ By combining deterministic naval hydrodynamics (Admiralty cubic resistance power
 
 ---
 
-## 🎯 Problem Statement (SIH26138)
+## 🎯 Problem Statement
 
 Commercial shipping contributes approximately **3% of global greenhouse gas emissions**. Tightening International Maritime Organization (IMO) carbon taxation, FuelEU Maritime mandates, and rising bunker fuel prices necessitate next-generation voyage optimization that goes beyond simple static lookup tables.
 
@@ -148,7 +148,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🏆 SIH 2026 Judge Demo Flow (2–3 Minutes)
 
 1. **Landing Intro:** Click *"Enter Command Center"* to open the Bloomberg-style control dashboard.
-2. **Demo Scenario:** Click the top-bar *"Demo Scenario"* button to load the official SIH26138 Container/Cargo transit case study.
+2. **Demo Scenario:** Click the top-bar *"Demo Scenario"* button to load the official Container/Cargo transit case study.
 3. **Overview Dashboard:** Review dynamic KPIs and current vs. optimized metrics with live percentage deltas.
 4. **Prediction Studio:** Adjust cruising speed or wave height to observe real-time displacement and fuel consumption responses.
 5. **Fleet Optimizer:** Click *"Run Quantum-Inspired Optimization"*, observe the live Q-bit phase updates and review the resulting convergence curve and constraint audit.
@@ -158,4 +158,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-**Developed for Smart India Hackathon 2026 — Problem Statement SIH26138**
+**Developed for Smart India Hackathon 2026**

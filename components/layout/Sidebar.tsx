@@ -128,7 +128,7 @@ export function Sidebar() {
         </div>
 
         <div className="text-[10px] text-slate-400 text-center font-mono">
-          SIH26138 • Smart India Hackathon
+          Smart India Hackathon 2026
         </div>
       </div>
     </aside>
