@@ -128,7 +128,7 @@ export function Sidebar() {
         </div>
 
         <div className="text-[10px] text-slate-400 text-center font-mono">
-          Smart India Hackathon 2026
+          GreenFleet AI Platform
         </div>
       </div>
     </aside>

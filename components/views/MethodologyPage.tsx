@@ -225,7 +225,7 @@ export function MethodologyPage() {
           </h3>
           <p className="text-xs text-slate-400 leading-relaxed">
             This platform represents a complete, mathematically grounded Minimum Viable Product
-            designed for Hackathon evaluation and stakeholder validation:
+            designed for enterprise evaluation and maritime fleet stakeholder validation:
           </p>
           <ul className="text-xs text-slate-400 space-y-1.5 font-sans">
             <li className="flex items-start gap-2">

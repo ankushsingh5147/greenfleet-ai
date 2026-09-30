@@ -1,6 +1,6 @@
 # GREENFLEET AI
 ### Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization
-**Smart India Hackathon 2026**
+**AI-powered maritime fuel consumption prediction and green fleet optimization**
 
 ![Next.js](https://img.shields.io/badge/Next.js-15%2F16-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)
@@ -138,14 +138,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Synthetic Hydrodynamics:** Uses deterministic Admiralty empirical formulas rather than proprietary ship-specific towing-tank curves.
 - **Port Infrastructure Assumptions:** Assumes standard grid electricity emission factors (0.45 kg CO₂e/kWh) and $0.18/kWh berth electricity tariffs.
 
-### Production Roadmap (Post-Hackathon)
+### Production Roadmap
 - **Live AIS & Weather APIs:** Direct integration with Copernicus Marine Service (CMEMS) and NOAA Global Wave models.
 - **Onboard IoT Telemetry:** Ingest high-frequency Coriolis mass flow meter readings and shaft torque telemetry via NMEA 2000.
 - **Multi-Port Dynamic Routing:** Genetic algorithm pathfinding through IMO Emission Control Areas (ECAs) and canal transit toll schedules.
 
 ---
 
-## 🏆 SIH 2026 Judge Demo Flow (2–3 Minutes)
+## 🏆 Interactive Product Walkthrough (2–3 Minutes)
 
 1. **Landing Intro:** Click *"Enter Command Center"* to open the Bloomberg-style control dashboard.
 2. **Demo Scenario:** Click the top-bar *"Demo Scenario"* button to load the official Container/Cargo transit case study.
@@ -158,4 +158,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-**Developed for Smart India Hackathon 2026**
+**GreenFleet AI — Enterprise Maritime Decision-Support System**

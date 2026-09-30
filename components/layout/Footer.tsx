@@ -13,7 +13,7 @@ export function Footer() {
             <span>GREENFLEET AI</span>
           </div>
           <span className="text-slate-700">|</span>
-          <span className="text-slate-400">Smart India Hackathon 2026</span>
+          <span className="text-slate-400">AI-Powered Maritime Decarbonization</span>
         </div>
 
         <div className="flex items-center gap-4 text-[11px] text-slate-400">
